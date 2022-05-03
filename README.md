@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c01c5bef-2123-46ee-bcc7-71ba1b0f82ee/deploy-status)](https://app.netlify.com/sites/stirring-jelly-658e68/deploys)
+Build Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/c01c5bef-2123-46ee-bcc7-71ba1b0f82ee/deploy-status)](https://app.netlify.com/sites/stirring-jelly-658e68/deploys)
 
 ![Netlify Next.js Blog Template designed by Bejamas](github-banner.svg)
 
